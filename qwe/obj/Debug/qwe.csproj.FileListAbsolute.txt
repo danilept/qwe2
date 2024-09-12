@@ -1,0 +1,13 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\bin\Debug\qwe.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\bin\Debug\qwe.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\bin\Debug\qwe.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\qwe\obj\Debug\qwe.Form3.resources

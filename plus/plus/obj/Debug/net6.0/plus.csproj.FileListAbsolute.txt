@@ -1,0 +1,15 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\bin\Debug\net6.0\plus.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\bin\Debug\net6.0\plus.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\bin\Debug\net6.0\plus.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\bin\Debug\net6.0\plus.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\bin\Debug\net6.0\plus.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\refint\plus.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\plus.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Колбин Степанов\h2\plus\plus\obj\Debug\net6.0\ref\plus.dll
